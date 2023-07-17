@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="03a4ce4247403110e1975d0f536d4358" label="DevOpsTable" max_length="40" name="u_devopstable" type="collection"/>
+</database>
