@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-14 03:48:34</sys_created_on>
+        <sys_id>10179f31e8a5211076da10591ad28732</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sys_user.manager.admin</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NewDevOpsMovement">e2e64ac247403110e1975d0f536d435b</sys_scope>
+        <sys_security_acl display_value="sys_user.manager">d8179f31e8a5211076da10591ad28731</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_10179f31e8a5211076da10591ad28732</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 00:56:38</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="NewDevOpsMovement">e2e64ac247403110e1975d0f536d435b</claim_owner_scope>
+        <claim_timestamp>18961596f1e0000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_role_10179f31e8a5211076da10591ad28732</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>NewDevOpsMovement</previous_claim_name>
+        <previous_claim_scope>e2e64ac247403110e1975d0f536d435b</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 00:56:38</sys_created_on>
+        <sys_id>147ed24a47803110e1975d0f536d4381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 00:56:38</sys_updated_on>
+    </sys_claim>
+</record_update>
